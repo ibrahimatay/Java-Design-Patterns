@@ -1,3 +1,4 @@
+[![Java CI with Maven](https://github.com/ibrahimatay/Design-Patterns/actions/workflows/maven.yml/badge.svg)](https://github.com/ibrahimatay/Design-Patterns/actions/workflows/maven.yml)
 # Design Patterns For Humans in Java
 Design Patterns are solutions to common software design problems that occur over and over in software development.
 
