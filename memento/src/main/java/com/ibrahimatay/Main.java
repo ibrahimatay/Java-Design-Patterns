@@ -1,14 +1,6 @@
 package com.ibrahimatay;
 
-class Memento<T> {
-    private final T state;
-    public Memento(T state) {
-        this.state = state;
-    }
-
-    public T getState() {
-        return state;
-    }
+record Memento<T>(T state) {
 }
 
 class Originator<T> {
@@ -26,7 +18,7 @@ class Originator<T> {
     }
 
     public void Undo(Memento<T> memento) {
-        this.state = memento.getState();
+        this.state = memento.state();
     }
 }
 
