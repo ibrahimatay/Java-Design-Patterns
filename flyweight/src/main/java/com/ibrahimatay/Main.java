@@ -4,7 +4,7 @@ import java.util.Dictionary;
 import java.util.Hashtable;
 
 enum CalculateType {
-    Adder, Multiplier;
+    Adder, Multiplier
 }
 
 interface Calculator {
@@ -26,10 +26,10 @@ class CalculateAdder implements Calculator {
 }
 
 class CalculatorFactory {
-    final Dictionary<CalculateType, Calculator> _memoryObject;
+    final Dictionary<CalculateType, Calculator> memoryObject;
 
     CalculatorFactory() {
-        _memoryObject = new Hashtable<>();
+        memoryObject = new Hashtable<>();
     }
 
     public Calculator getCalculator(CalculateType type) {
@@ -38,7 +38,7 @@ class CalculatorFactory {
             case Multiplier -> new CalculateMultiplier();
         };
 
-        _memoryObject.put(type, swap);
+        memoryObject.put(type, swap);
 
         return swap;
     }
