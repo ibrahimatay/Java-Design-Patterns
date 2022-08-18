@@ -19,6 +19,7 @@
         <module>flyweight</module>
         <module>factory-method</module>
         <module>facade</module>
+        <module>abstract-factory</module>
     </modules>
 
     <properties>
