@@ -2,6 +2,34 @@
 # Design Patterns For Humans in Java
 Design Patterns are solutions to common software design problems that occur over and over in software development.
 
+## ***Creational***
+- [Factory Method]            
+- [Abstract Factory]          
+- [Builder]                   
+- [Prototype]                 
+- Singleton ([Singleton], [SingletonFullyLazy], [ThreadSafeSingleton], [ThreadSafeSingletonWithDoubleCheck])                
+
+## ***Structural***
+- [Adapter]                   
+- [Proxy]                     
+- [Facade]                    
+- [Composite]                 
+- [Bridge](bridge)                
+- [Flyweight](flyweight)                
+- [Decorator](decorator)               
+
+## ***Behavioral***
+- [Command]                   
+- [Iterator]                  
+- [Memento](memento)              
+- [Observer]                  
+- [Strategy]                  
+- [Template Method](template-method)     
+- [Visitor](visitor)               
+- [Chain of Responsibility](chain-of-responsibility)  
+- [State]                     
+- [Mediator](mediator)  
+
 ## References
 Design patterns in this repository are based on
 
