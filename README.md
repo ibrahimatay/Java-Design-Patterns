@@ -10,9 +10,9 @@ Design Patterns are solutions to common software design problems that occur over
 - Singleton ([Singleton], [SingletonFullyLazy], [ThreadSafeSingleton], [ThreadSafeSingletonWithDoubleCheck])                
 
 ## ***Structural***
-- [Adapter]                   
+- [Adapter](adapter)                   
 - [Proxy]                     
-- [Facade](Facade)                  
+- [Facade](facade)                  
 - [Composite]                 
 - [Bridge](bridge)                
 - [Flyweight](flyweight)                

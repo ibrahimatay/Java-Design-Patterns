@@ -20,6 +20,7 @@
         <module>factory-method</module>
         <module>facade</module>
         <module>abstract-factory</module>
+        <module>adapter</module>
     </modules>
 
     <properties>
