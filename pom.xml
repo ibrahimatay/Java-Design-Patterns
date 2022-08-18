@@ -18,6 +18,7 @@
         <module>decorator</module>
         <module>flyweight</module>
         <module>factory-method</module>
+        <module>facade</module>
     </modules>
 
     <properties>

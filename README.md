@@ -3,7 +3,7 @@
 Design Patterns are solutions to common software design problems that occur over and over in software development.
 
 ## ***Creational***
-- [Factory Method]            
+- [Factory Method](factory-method)        
 - [Abstract Factory]          
 - [Builder]                   
 - [Prototype]                 
@@ -12,7 +12,7 @@ Design Patterns are solutions to common software design problems that occur over
 ## ***Structural***
 - [Adapter]                   
 - [Proxy]                     
-- [Facade]                    
+- [Facade](Facade)                  
 - [Composite]                 
 - [Bridge](bridge)                
 - [Flyweight](flyweight)                
