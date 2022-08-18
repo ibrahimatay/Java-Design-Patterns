@@ -21,6 +21,7 @@
         <module>facade</module>
         <module>abstract-factory</module>
         <module>adapter</module>
+        <module>state</module>
     </modules>
 
     <properties>

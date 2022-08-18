@@ -27,7 +27,7 @@ Design Patterns are solutions to common software design problems that occur over
 - [Template Method](template-method)     
 - [Visitor](visitor)               
 - [Chain of Responsibility](chain-of-responsibility)  
-- [State]                     
+- [State](state)                   
 - [Mediator](mediator)  
 
 ## References
