@@ -25,6 +25,7 @@
         <module>composite</module>
         <module>command</module>
         <module>strategy</module>
+        <module>observer</module>
     </modules>
 
     <properties>
