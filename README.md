@@ -19,7 +19,7 @@ Design Patterns are solutions to common software design problems that occur over
 - [Decorator](decorator)               
 
 ## ***Behavioral***
-- [Command]                   
+- [Command](command)                  
 - [Iterator]                  
 - [Memento](memento)              
 - [Observer]                  

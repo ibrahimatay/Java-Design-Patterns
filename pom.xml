@@ -23,6 +23,7 @@
         <module>adapter</module>
         <module>state</module>
         <module>composite</module>
+        <module>command</module>
     </modules>
 
     <properties>
