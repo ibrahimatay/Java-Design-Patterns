@@ -13,11 +13,11 @@ class Originator<T> {
         this.state = state;
     }
 
-    public Memento<T> Redo() {
+    public Memento<T> redo() {
         return new Memento<>(this.state);
     }
 
-    public void Undo(Memento<T> memento) {
+    public void undo(Memento<T> memento) {
         this.state = memento.state();
     }
 }
@@ -39,14 +39,14 @@ public class Main {
         originator.setState(1);
 
         CareTaker<Integer> careTaker = new CareTaker<>();
-        careTaker.setMemento(originator.Redo());
+        careTaker.setMemento(originator.redo());
 
         System.out.println(originator.getState());
 
         originator.setState(2);
         System.out.println(originator.getState());
 
-        originator.Undo(careTaker.getMemento());
+        originator.undo(careTaker.getMemento());
 
         System.out.println(originator.getState());
     }
