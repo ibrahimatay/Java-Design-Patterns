@@ -24,6 +24,7 @@
         <module>state</module>
         <module>composite</module>
         <module>command</module>
+        <module>strategy</module>
     </modules>
 
     <properties>
