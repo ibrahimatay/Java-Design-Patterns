@@ -13,7 +13,7 @@ Design Patterns are solutions to common software design problems that occur over
 - [Adapter](adapter)                   
 - [Proxy]                     
 - [Facade](facade)                  
-- [Composite]                 
+- [Composite](composite)                 
 - [Bridge](bridge)                
 - [Flyweight](flyweight)                
 - [Decorator](decorator)               

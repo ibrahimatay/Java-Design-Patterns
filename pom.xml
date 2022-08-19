@@ -22,6 +22,7 @@
         <module>abstract-factory</module>
         <module>adapter</module>
         <module>state</module>
+        <module>composite</module>
     </modules>
 
     <properties>
