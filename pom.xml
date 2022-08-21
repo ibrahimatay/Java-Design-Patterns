@@ -26,6 +26,7 @@
         <module>command</module>
         <module>strategy</module>
         <module>observer</module>
+        <module>proxy</module>
     </modules>
 
     <properties>
