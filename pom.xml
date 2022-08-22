@@ -29,6 +29,7 @@
         <module>proxy</module>
         <module>iterator</module>
         <module>singleton-with-enum</module>
+        <module>singleton-lazy-instantiation</module>
     </modules>
 
     <properties>
