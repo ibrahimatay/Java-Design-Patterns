@@ -30,6 +30,7 @@
         <module>iterator</module>
         <module>singleton-with-enum</module>
         <module>singleton-lazy-instantiation</module>
+        <module>singleton-eager-instantiation</module>
     </modules>
 
     <properties>
