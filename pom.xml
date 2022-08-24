@@ -31,6 +31,7 @@
         <module>singleton-with-enum</module>
         <module>singleton-lazy-instantiation</module>
         <module>singleton-eager-instantiation</module>
+        <module>builder</module>
     </modules>
 
     <properties>
