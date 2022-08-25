@@ -32,6 +32,7 @@
         <module>singleton-lazy-instantiation</module>
         <module>singleton-eager-instantiation</module>
         <module>builder</module>
+        <module>prototype</module>
     </modules>
 
     <properties>
