@@ -7,7 +7,9 @@ Design Patterns are solutions to common software design problems that occur over
 - [Abstract Factory](abstract-factory)        
 - [Builder](builder)                  
 - [Prototype](prototype)                
-- Singleton ([Singleton], [SingletonFullyLazy], [ThreadSafeSingleton], [ThreadSafeSingletonWithDoubleCheck])                
+- Singleton ([Eager Instantiation](singleton-eager-instantiation),
+  [Lazy Instantiation](singleton-lazy-instantiation),
+  [Enum-based Singleton](singleton-with-enum))                
 
 ## ***Structural***
 - [Adapter](adapter)                   
