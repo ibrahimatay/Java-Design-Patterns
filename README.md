@@ -43,4 +43,4 @@ Design patterns in this repository are based on
 [Design Patterns by The "Gang of Four"]: https://en.wikipedia.org/wiki/Design_Patterns
 [Head First: Design Patterns]: http://www.headfirstlabs.com/books/hfdp/ 
 [Wikipedia]: https://en.wikipedia.org/wiki/Software_design_pattern
-[Docs]: docs
+[Other Documents]: docs
