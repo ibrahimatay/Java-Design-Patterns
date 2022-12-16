@@ -38,7 +38,7 @@ Design patterns in this repository are based on
 * [Design Patterns by The "Gang of Four"]
 * [Head First: Design Patterns]
 * [Wikipedia]
-* [Docs]
+* [Other Documents]
 
 [Design Patterns by The "Gang of Four"]: https://en.wikipedia.org/wiki/Design_Patterns
 [Head First: Design Patterns]: http://www.headfirstlabs.com/books/hfdp/ 
