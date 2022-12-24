@@ -1,6 +1,6 @@
 [![Java CI with Maven](https://github.com/ibrahimatay/Design-Patterns/actions/workflows/maven.yml/badge.svg)](https://github.com/ibrahimatay/Design-Patterns/actions/workflows/maven.yml)
 # Design Patterns For Humans in Java
-Design Patterns are solutions to common software design problems that occur over and over in software development.
+This repository contains examples of design patterns in Java, presented in a way that is easy for humans to understand and implement. The purpose of these examples is to provide a practical and intuitive guide to the use of design patterns in Java, helping developers to improve their skills and create more effective and maintainable software.
 
 ## ***Creational***
 - [Factory Method](factory-method)        
